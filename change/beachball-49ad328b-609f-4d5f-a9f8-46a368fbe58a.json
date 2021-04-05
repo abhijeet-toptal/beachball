@@ -1,0 +1,7 @@
+{
+  "type": "patch",
+  "comment": "init",
+  "packageName": "beachball",
+  "email": "abhijeet.ahuja@toptal.com",
+  "dependentChangeType": "patch"
+}
