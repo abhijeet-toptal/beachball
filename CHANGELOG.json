@@ -1,0 +1,20 @@
+{
+  "name": "beachball",
+  "entries": [
+    {
+      "date": "Mon, 05 Apr 2021 08:47:43 GMT",
+      "tag": "beachball_v1.0.1",
+      "version": "1.0.1",
+      "comments": {
+        "patch": [
+          {
+            "comment": "init",
+            "author": "abhijeet.ahuja@toptal.com",
+            "commit": "d7486818803de819d65e988e0f8f1569c1b4d5fb",
+            "package": "beachball"
+          }
+        ]
+      }
+    }
+  ]
+}
